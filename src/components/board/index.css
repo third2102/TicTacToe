@@ -1,0 +1,6 @@
+.board {
+    display:flex;
+    margin: 0 auto;
+    width: 40vw;
+    flex-wrap: wrap;
+}
